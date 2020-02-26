@@ -1,4 +1,4 @@
-# SILK-TOCS2020
+# SILK+ TOCS 2020
 
 The code for **SILK+: Preventing Latency Spikes in Log-Structured Merge Key-Value Stores Running Heterogeneous Workloads** 
 will be published here soon.
